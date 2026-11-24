@@ -6,7 +6,9 @@
 2. **Never create, move or delete a calendar event without the user's eyes on it first.**
 3. **If not sure, ask the user first.**
 
-4. **Read `PROFILE.md` at the start of every session** and follow it (my role, hours, time zone, priority people, answer style).
+## Every session
+
+**Read `PROFILE.md` at the start of every session** and follow it (my role, hours, time zone, priority people, answer style).
 
 ## 1. Role
 
